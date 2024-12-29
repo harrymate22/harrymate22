@@ -1,12 +1,6 @@
 [![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/zainwen9)
 <h1 align="center">Hi 👋, I'm Harry</h1>
-- 👨‍💻 My Portfolio website (COMING SOON)
-<h3 align="center">A passionate WEB & APP Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zainwen9&label=Profile%20views&color=0e75b6&style=flat" alt="harry" /> </p>
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=harrymate22&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 - 🔭 I’m currently working on **Web Application**
 
@@ -21,6 +15,14 @@
 - 💬 Ask me about **React,App & Web Development,Rest Api**
 
 - 📫 How to reach me **harrymate2244@gmail.com**
+
+- 👨‍💻 My Portfolio website (COMING SOON)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zainwen9&label=Profile%20views&color=0e75b6&style=flat" alt="harry" /> </p>
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=harrymate22&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
