@@ -22,8 +22,8 @@
 
 ## 🏆GitHub Trophies
 <!-- ![](https://github-trophies.vercel.app/?username=harrymate22&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?harrymate22)](https://github.com/harrymate22/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=harrymate22&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+le-trophy)
 
 
 <h2>🚀 Languages and Tools I Use</h2>
