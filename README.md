@@ -64,8 +64,8 @@ le-trophy)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=harrymate22&show_icons=true&locale=en" alt="harrymate22" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harrymate22&" alt="harrymate22" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harrymate22&show_icons=true&locale=en&layout=compact" alt="harrymate22" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harrymate22" alt="harrymate22" /></a></p>
-
+<!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harrymate22" alt="harrymate22" /></a></p>
+ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harrymate22/harrymate22/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harrymate22/harrymate22/output/github-snake.svg" />
