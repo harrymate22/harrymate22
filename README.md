@@ -21,7 +21,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainwen9&label=Profile%20views&color=0e75b6&style=flat" alt="harry" /> </p>
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=harrymate22&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- ![](https://github-trophies.vercel.app/?username=harrymate22&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?harrymate22)](https://github.com/harrymate22/github-profile-trophy)
 
 
 <h2>🚀 Languages and Tools I Use</h2>
