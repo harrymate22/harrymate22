@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Web Application**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **ServiceNow Developer**
 
 - 👯 I’m looking to collaborate on **React Native Projects & UI/UX & Web Projects**
 
