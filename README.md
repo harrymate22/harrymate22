@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **AI Product**
 
-- 👯 I’m looking to collaborate on **React Native Projects & UI/UX & Web Projects**
+- 👯 I’m looking to collaborate on **React & Nextjs or Typescript UI/UX & Web Projects**
 
-- 🤝 I’m looking for help with **UI/UX & Javascript**
+- 🤝 I’m looking for help with **UI/UX & Javascript, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/harry-g-056575160/](https://www.linkedin.com/in/harry-g-056575160/)
 
